@@ -18,7 +18,7 @@ public class BodyMassIndex extends JFrame implements ActionListener {
 	//Create all frames and all childs
 	JFrame frame = new JFrame("Body-Mass-Index");
 	JFrame warn = new JFrame();
-
+	//
 	JLabel weight = new JLabel("weight in kg:", 10);
 	JLabel height = new JLabel("height in m:", 10);
 	JLabel bmi = new JLabel("BMI:");
